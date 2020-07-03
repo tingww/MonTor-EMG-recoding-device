@@ -6,8 +6,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "c:/Users/tingw/Documents/PlatformIO/Projects/20200409ESP32/include",
-                "c:/Users/tingw/Documents/PlatformIO/Projects/20200409ESP32/src",
+                "d:/file/Projects/MonTor-EMG-recoding-device/include",
+                "d:/file/Projects/MonTor-EMG-recoding-device/src",
                 "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
                 "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
@@ -72,8 +72,8 @@
                 "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/fb_gfx",
                 "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                 "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/variants/doitESP32devkitV1",
-                "c:/Users/tingw/Documents/PlatformIO/Projects/20200409ESP32/.pio/libdeps/nodemcu-32s/AsyncTCP_ID1826/src",
-                "c:/Users/tingw/Documents/PlatformIO/Projects/20200409ESP32/.pio/libdeps/nodemcu-32s/ESP Async WebServer_ID306/src",
+                "d:/file/Projects/MonTor-EMG-recoding-device/.pio/libdeps/nodemcu-32s/AsyncTCP_ID1826/src",
+                "d:/file/Projects/MonTor-EMG-recoding-device/.pio/libdeps/nodemcu-32s/ESP Async WebServer_ID306/src",
                 "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                 "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                 "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/libraries/AzureIoT/src",
@@ -100,8 +100,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/tingw/Documents/PlatformIO/Projects/20200409ESP32/include",
-                    "c:/Users/tingw/Documents/PlatformIO/Projects/20200409ESP32/src",
+                    "d:/file/Projects/MonTor-EMG-recoding-device/include",
+                    "d:/file/Projects/MonTor-EMG-recoding-device/src",
                     "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
                     "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
@@ -166,8 +166,8 @@
                     "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/fb_gfx",
                     "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                     "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/variants/doitESP32devkitV1",
-                    "c:/Users/tingw/Documents/PlatformIO/Projects/20200409ESP32/.pio/libdeps/nodemcu-32s/AsyncTCP_ID1826/src",
-                    "c:/Users/tingw/Documents/PlatformIO/Projects/20200409ESP32/.pio/libdeps/nodemcu-32s/ESP Async WebServer_ID306/src",
+                    "d:/file/Projects/MonTor-EMG-recoding-device/.pio/libdeps/nodemcu-32s/AsyncTCP_ID1826/src",
+                    "d:/file/Projects/MonTor-EMG-recoding-device/.pio/libdeps/nodemcu-32s/ESP Async WebServer_ID306/src",
                     "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                     "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                     "C:/Users/tingw/.platformio/packages/framework-arduinoespressif32/libraries/AzureIoT/src",

@@ -1,2 +1,4 @@
-# MonTor-EMG-recoding device
+# MonTor - an surface EMG recoding device
  A project I did in NCU
+# Abstract:
+In this project I build a device that can record voluntary surface electromyography (sEMG) signal. When placing surface electrode on the location recommended by the SENIAM (Surface ElectroMyoGraphy for the Non-Invasive Assessment of Muscles) project, this device records the signal after it was being amplified, filtered and converted into a 10-bit digital signal. The recorded signal is saved to the flash memory as a comma separated value (CSV) file of a microcontroller (MCU). Operating in Wi-Fi station mode, this MCU sends the CSV file to the client on the web server hosted by the MCU. Using the website as a user interface, some option can be made, including changing sampling period (30s max for dual channels), changing sampling frequency (1k or 2k samples per second), calculate the RMS of the recorded signal etc. The device is powered by an 18650 li-ion battery with 5 hours continuous operation and 12 hours on standby.
